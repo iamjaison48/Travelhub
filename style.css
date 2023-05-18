@@ -1,0 +1,218 @@
+body{
+  background-color: white;
+}
+
+
+
+
+
+ul li{
+
+margin-left: 10px;
+margin-right: 35px;
+margin-top: 0;
+float: left;
+font-family: 'Kalam', cursive;
+color: black;
+
+
+}
+
+.navbar-brand{
+  color: rgb(25, 145, 105);
+  font-family: 'Merienda', cursive;
+  
+}
+.nav-link{
+  color: rgb(56, 22, 159);
+  font-family: 'Merienda', cursive;}
+.div1{
+  background-image: url(./images/swiz.jpeg);
+  background-size: cover;
+  height: 800px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+.h1{
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 70px;
+  color: white;
+  text-align: center;
+}
+.div2{
+display: flex;
+flex-direction: column;
+ justify-content: center;
+  margin-left: 350px;
+  margin-right: 250px;
+  font-size: 30px;
+  align-items: center;
+}
+.h2{
+  text-align: center;
+  font-size: 40px;
+  font-family: 'Phudu', cursive;
+}
+.p1{
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 22px;
+  color: rgb(46, 8, 94);
+
+}
+
+
+
+.img1{
+  width: 350px;
+  height: 300px;
+  border-radius: 50px;
+
+  
+  
+}
+.img1:hover{
+  border-radius: 70px;
+  width: 450px;
+  height: 350px;
+  transition: 0.6s;
+}
+
+.dest1{
+  display: flex;
+flex-wrap: wrap;
+align-items: center;
+justify-content: center;
+}
+
+.div3{
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+align-items: center;
+  width: 420px;
+  height: 780px;
+  margin: 20px;
+  margin-left: 35px;
+  border-radius: 20px;
+  margin-right: 30px;
+}
+
+  .h3{
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Phudu', cursive;
+    color: rgb(3, 30, 48);
+
+  }
+ .p7{
+  font-family: 'Kalam', cursive;
+  font-size: 18px;
+  color: rgb(46, 8, 94);
+
+
+ }
+ .tour1{
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+ }
+
+ .div4{
+justify-content: center;
+width: 300px;
+height: 250px;
+text-align:center;
+background-image: url(./images/swizer.jpg);
+background-size: cover;
+margin: 12px;
+ }
+
+.div5{
+  justify-content: center;
+  width: 300px;
+  height: 250px;
+  text-align:center;
+  background-image: url(./images/rome.jpeg);
+  background-size: cover;
+  margin: 12px;
+
+}
+.h4{
+  font-family: 'Phudu', cursive;
+}
+  
+
+  .p3{
+font-size: 20px;
+margin-left: 300px;
+margin-right: 300px;
+color: rgb(0, 0, 10);
+font-family: 'Kalam', cursive;
+color: rgb(46, 8, 94);
+
+
+  }
+
+  
+  .p4{
+    font-size: 20px;
+    margin-top: 20px;
+    text-align: center;
+    color: rgb(249, 249, 251);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+      }
+.h5{
+  font-size: 20px;
+  margin-top: 20px;
+  text-align: center;
+  color: rgb(244, 244, 249);
+  font-family: 'Phudu', cursive;
+
+
+}
+
+.cont1{
+  text-align: center;
+
+}
+.cont2{
+  display: flex;
+flex-direction: column;
+text-align: left;
+justify-content: center;
+align-items: center;
+}
+.h6{
+  font-size: 50px;
+  color: brown;
+  font-family: 'Phudu', cursive;
+
+}
+
+.p5{
+font-size: 20px;
+font-family: 'Kalam', cursive;
+color: rgb(46, 8, 94);
+
+
+}
+
+input{
+  width: 200px;
+  color: rgb(46, 8, 94);
+
+}
+.h22{
+  font-family: 'Phudu', cursive;
+
+}
+.p77{
+  font-family: 'Merienda', cursive;
+
+}
+
